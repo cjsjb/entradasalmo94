@@ -5,7 +5,7 @@
 \header {
 	title = "Entrada"
 	subtitle = "Salmo 94"
-	composer = "P. Gerardo Flores"
+	composer = "P. Gerardo Javier Flores Cárdenas"
 	tagline = "Coro Juvenil San Juan Bosco"
 	instrument = "Soprano"
 }
