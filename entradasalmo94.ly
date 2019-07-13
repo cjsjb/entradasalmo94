@@ -29,7 +29,10 @@ globalTempo = {
 		\override Score.NoteColumn #'force-hshift = #1.0
 
 		\include "entradasalmo94-acordes.inc"
-		\include "entradasalmo94-soprano.inc"
+		\new StaffGroup <<
+			\include "entradasalmo94-soprano.inc"
+			\include "entradasalmo94-mezzo.inc"
+		>>
 
 	>>
 
