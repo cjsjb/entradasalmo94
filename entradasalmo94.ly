@@ -32,6 +32,7 @@ globalTempo = {
 		\new StaffGroup <<
 			\include "entradasalmo94-soprano.inc"
 			\include "entradasalmo94-mezzo.inc"
+			\include "entradasalmo94-tenor.inc"
 		>>
 
 	>>
