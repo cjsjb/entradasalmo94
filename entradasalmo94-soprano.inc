@@ -79,7 +79,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		Can -- te -- mos un can -- to de glo -- ria
 		a Dios po -- de -- ro -- so, nues -- tro sal -- va -- dor.
 		Con ac -- cio -- nes de gra -- cias en -- tre -- mos
